@@ -1,4 +1,4 @@
-### Hi there 👋
+### il y a rien, comme ma vie (en vrai en travaux il y en aura un stylé quand j'aurai pas la flemme)
 
 <!--
 **lliksel/lliksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

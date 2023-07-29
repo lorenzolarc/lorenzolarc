@@ -1,16 +1,13 @@
-### il y a rien, comme ma vie (en vrai en travaux il y en aura un stylé quand j'aurai pas la flemme)
+# Hi there👋!
 
-<!--
-**lliksel/lliksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm lliksel, and like everyone on GitHub (I guess), I love IT. I like to develop my IT skills, particularly with dev. I'm passionate about all kinds of technology and find out all I can about it. I'm also a big g@merz, I play a lot.
 
-Here are some ideas to get you started:
+Today, I'm in my first year at @Epitech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and tools
+
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org) [![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/48px-C_Programming_Language.svg.png)](https://en.wikipedia.org/wiki/C_(programming_language))[![Python](https://skillicons.dev/icons?i=java)](https://www.java.com/)[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
+## Contact
+
+*soon*

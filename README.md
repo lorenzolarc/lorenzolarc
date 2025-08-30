@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Lorenzo 👋</h1>
 
 <p align="center">
-  🎓 2nd-year student at <strong>EPITECH</strong> | 💻 Passionate about systems, code, and gaming
+  🎓 3rd-year student at <strong>EPITECH</strong> | 💻 Passionate about systems, code, and gaming
 </p>
 
 ---

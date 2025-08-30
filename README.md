@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a 2nd-year computer science student at [EPITECH](https://epitech.eu), a project-based tech school in France.  
+I'm a 3rd-year computer science student at [EPITECH](https://epitech.eu), a project-based tech school in France.  
 
 🧠 I’m especially interested in:
 - System programming (Linux, network, architecture)
